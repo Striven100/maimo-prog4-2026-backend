@@ -1,0 +1,18 @@
+{
+  "name": "backend-uniorganizer",
+  "version": "1.0.0",
+  "description": "Backend para UniOrganizer - App de organización universitaria",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

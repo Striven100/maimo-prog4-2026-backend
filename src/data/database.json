@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "mpmohgt7h82c1i0r",
+      "name": "Tobias_Mislej",
+      "username": "TobiM",
+      "email": "tobimislej@gmail.com",
+      "password": "1234",
+      "career": "",
+      "university": "",
+      "points": 0,
+      "level": 1,
+      "streak": 0,
+      "completedTasks": 0,
+      "avatar": {
+        "base": "default",
+        "outfit": "basic",
+        "accessory": "none",
+        "background": "standard"
+      },
+      "friends": [
+        "mpmojrsklt5w8i5x"
+      ],
+      "achievements": [],
+      "unlockedRewards": [],
+      "createdAt": "2026-05-26T13:35:50.107Z"
+    },
+    {
+      "id": "mpmojrsklt5w8i5x",
+      "name": "Test",
+      "username": "Test",
+      "email": "test@gmail.com",
+      "password": "4321",
+      "career": "",
+      "university": "",
+      "points": 0,
+      "level": 1,
+      "streak": 0,
+      "completedTasks": 0,
+      "avatar": {
+        "base": "default",
+        "outfit": "basic",
+        "accessory": "none",
+        "background": "standard"
+      },
+      "friends": [
+        "mpmohgt7h82c1i0r"
+      ],
+      "achievements": [],
+      "unlockedRewards": [],
+      "createdAt": "2026-05-26T13:37:37.652Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "mpmoi1kwitbl60lu",
+      "ownerId": "mpmohgt7h82c1i0r",
+      "nombre": "programación",
+      "profesor": "Claudi",
+      "comision": "",
+      "horario": "",
+      "color": "#6366f1",
+      "descripcion": "progggg",
+      "collaborators": [
+        {
+          "userId": "mpmojrsklt5w8i5x",
+          "rol": "collaborator"
+        }
+      ],
+      "sharedGroupId": "mpmolf4jx56mq5m9",
+      "isShared": true,
+      "notes": [],
+      "createdAt": "2026-05-26T13:36:17.024Z"
+    },
+    {
+      "id": "mpmok3i0m7s8eg4m",
+      "ownerId": "mpmojrsklt5w8i5x",
+      "nombre": "programación",
+      "profesor": "claudio",
+      "comision": "",
+      "horario": "",
+      "color": "#6366f1",
+      "descripcion": "dwqdwqqd",
+      "collaborators": [
+        {
+          "userId": "mpmohgt7h82c1i0r",
+          "rol": "collaborator"
+        }
+      ],
+      "sharedGroupId": "mpmolf4jx56mq5m9",
+      "isShared": true,
+      "notes": [],
+      "createdAt": "2026-05-26T13:37:52.824Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "mpmoion0oetigk7u",
+      "ownerId": "mpmohgt7h82c1i0r",
+      "subjectId": "mpmoi1kwitbl60lu",
+      "sharedGroupId": null,
+      "titulo": "TP67",
+      "descripcion": "wedcwcwdca",
+      "fechaEntrega": "2026-02-06",
+      "prioridad": "media",
+      "tipo": "tarea",
+      "estado": "pendiente",
+      "createdById": "mpmohgt7h82c1i0r",
+      "createdAt": "2026-05-26T13:36:46.908Z"
+    },
+    {
+      "id": "mpmop0dkhzp1xzst",
+      "ownerId": "mpmojrsklt5w8i5x",
+      "subjectId": "mpmoi1kwitbl60lu",
+      "sharedGroupId": "mpmolf4jx56mq5m9",
+      "titulo": "ggg",
+      "descripcion": "",
+      "fechaEntrega": null,
+      "prioridad": "media",
+      "tipo": "tarea",
+      "estado": "pendiente",
+      "createdById": "mpmojrsklt5w8i5x",
+      "createdAt": "2026-05-26T13:41:42.056Z"
+    }
+  ],
+  "friendRequests": [
+    {
+      "id": "mpmokahmebj48s2s",
+      "fromUserId": "mpmojrsklt5w8i5x",
+      "toUserId": "mpmohgt7h82c1i0r",
+      "status": "accepted",
+      "createdAt": "2026-05-26T13:38:01.882Z"
+    }
+  ],
+  "notifications": [],
+  "preferences": [
+    {
+      "theme": {
+        "mode": false
+      },
+      "userId": "mpmojrsklt5w8i5x",
+      "accessibility": {
+        "reduceMotion": false
+      },
+      "layout": {
+        "compactMode": false
+      }
+    }
+  ],
+  "projects": []
+}
